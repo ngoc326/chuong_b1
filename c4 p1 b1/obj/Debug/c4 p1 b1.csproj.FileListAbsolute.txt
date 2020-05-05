@@ -1,0 +1,8 @@
+E:\vis\c4 p1 b1\c4 p1 b1\bin\Debug\c4 p1 b1.exe
+E:\vis\c4 p1 b1\c4 p1 b1\bin\Debug\c4 p1 b1.pdb
+E:\vis\c4 p1 b1\c4 p1 b1\obj\Debug\c4 p1 b1.csprojResolveAssemblyReference.cache
+E:\vis\c4 p1 b1\c4 p1 b1\obj\Debug\c4_p1_b1.Properties.Resources.resources
+E:\vis\c4 p1 b1\c4 p1 b1\obj\Debug\c4_p1_b1.frmTinhTong.resources
+E:\vis\c4 p1 b1\c4 p1 b1\obj\Debug\c4 p1 b1.csproj.GenerateResource.Cache
+E:\vis\c4 p1 b1\c4 p1 b1\obj\Debug\c4 p1 b1.exe
+E:\vis\c4 p1 b1\c4 p1 b1\obj\Debug\c4 p1 b1.pdb
